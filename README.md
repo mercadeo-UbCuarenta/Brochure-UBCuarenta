@@ -30,7 +30,7 @@ assets/
 
 ## Contacto publicado
 
-- servicioalcliente@ubcuarenta.co
-- +57 316 053 7758
+- cm.beltran@ubcuarenta.co
+- +57 316 471 6494
 - https://ubcuarenta.com/
 
