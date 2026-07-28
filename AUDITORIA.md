@@ -4,13 +4,13 @@ Fecha: 28 de julio de 2026
 
 ## Resultado general
 
-El brochure está listo para publicarse como sitio estático en GitHub Pages. La versión auditada contiene siete secciones, navegación por anclas, contenido responsive, imágenes locales, información de contacto y una presentación estática de presencia comercial.
+El brochure está listo para publicarse como sitio estático en GitHub Pages. La versión auditada contiene seis secciones, navegación por anclas, contenido responsive, imágenes locales, información de contacto y una presentación estática de presencia comercial.
 
 ## Verificaciones realizadas
 
 - HTML con idioma español y codificación UTF-8.
 - Un único encabezado principal `h1` y jerarquía secundaria consistente.
-- Siete secciones identificables: Inicio, Quiénes somos, Trayectoria, Marcas, Capacidades, Presencia y Contacto.
+- Seis secciones identificables: Inicio, Quiénes somos y trayectoria, Marcas, Capacidades, Presencia y Contacto.
 - Todas las imágenes cargan y tienen texto alternativo.
 - Enlaces de correo, teléfono y sitio corporativo configurados.
 - Sin desbordamiento horizontal en escritorio ni en vista móvil de 390 px.
